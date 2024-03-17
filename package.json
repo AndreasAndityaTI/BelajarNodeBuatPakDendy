@@ -1,0 +1,19 @@
+{
+  "name": "pemula",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "main.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon main.js"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "nodemon": "^3.1.0"
+  },
+  "description": ""
+}
